@@ -17,10 +17,10 @@ A complete, multi-user To-Do application built with **React Native** and **Fireb
 ## 📸 App Screenshots
 
 
-![Login Screen] (https://github.com/z-Pearlina/mobile-todo-app/blob/main/screenshots/1.jpg)
-![Home Screen] (https://github.com/z-Pearlina/mobile-todo-app/blob/main/screenshots/2.jpg)
-![Dark-mode Screen] (https://github.com/z-Pearlina/mobile-todo-app/blob/main/screenshots/4.jpg)
-![Task-details Screen] (https://github.com/z-Pearlina/mobile-todo-app/blob/main/screenshots/5.jpg)
+![Login Screen](https://github.com/z-Pearlina/mobile-todo-app/blob/main/screenshots/1.jpg)
+![Home Screen](https://github.com/z-Pearlina/mobile-todo-app/blob/main/screenshots/2.jpg)
+![Dark-mode Screen](https://github.com/z-Pearlina/mobile-todo-app/blob/main/screenshots/4.jpg)
+![Task-details Screen](https://github.com/z-Pearlina/mobile-todo-app/blob/main/screenshots/5.jpg)
 
 
 
