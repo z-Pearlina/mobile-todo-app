@@ -20,7 +20,6 @@ A complete, multi-user To-Do application built with **React Native** and **Fireb
 <p align="center">
   <img src="https://github.com/z-Pearlina/mobile-todo-app/blob/main/screenshots/1.jpg" width="200" />
   <img src="https://github.com/z-Pearlina/mobile-todo-app/blob/main/screenshots/2.jpg" width="200" />
-  <img src="https://github.com/z-Pearlina/mobile-todo-app/blob/main/screenshots/3.jpg" width="200" />
   <img src="https://github.com/z-Pearlina/mobile-todo-app/blob/main/screenshots/4.jpg" width="200" />
   <img src="https://github.com/z-Pearlina/mobile-todo-app/blob/main/screenshots/5.jpg" width="200" />
 </p>
