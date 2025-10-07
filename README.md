@@ -25,8 +25,6 @@ A complete, multi-user To-Do application built with **React Native** and **Fireb
 </p>
 
 
-
-(Replace the links above with your actual image URLs or GitHub uploaded images.)
 ---
 
 ## 🛠️ Tech Stack & Tools
